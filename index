@@ -1,6 +1,32 @@
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+<title>Catálogo operativo</title>
+<style>
+body { font-family: Arial; padding: 20px; }
+h1 { color: #2c3e50; }
+ul { line-height: 2; }
+a { text-decoration: none; color: #2980b9; }
+</style>
+</head>
 <body>
-<h1>Web en construcción</h1>
+
+<h1>Catálogo de información operativa</h1>
+
+<ul>
+<li><a href="circulacio.html">🚗 OOMM Circulació</a></li>
+<li><a href="sct.html">📄 SCT</a></li>
+<li><a href="alcoholemia.html">🍺 Barem alcoholèmia</a></li>
+<li><a href="civisme.html">🏙️ Civisme i convivència</a></li>
+<li><a href="animals.html">🐕 Tinença d'animals</a></li>
+<li><a href="residus.html">♻️ Residus</a></li>
+<li><a href="obres.html">🚧 Horari obres</a></li>
+<li><a href="terrasses.html">☕ Horari terrasses</a></li>
+<li><a href="pesca_gossos.html">🎣 Pesca i gossos</a></li>
+<li><a href="foc.html">🔥 Foc / crema</a></li>
+<li><a href="telefons.html">📞 Telèfons d'interès</a></li>
+</ul>
+
 </body>
 </html>
